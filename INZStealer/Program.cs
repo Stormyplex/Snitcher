@@ -14,7 +14,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        public static string Webhook_link = "https://discord.com/api/webhooks/1272291527674036234/R94cLxCJz1L8TVW2L3dgx_0CbVw0z_uuAnBq_7Oj8l4Q_dpOzgIhNcfQHpTrX_AjoBGu"; //Webhook Link
+        public static string Webhook_link = ""; //Webhook Link
         
         public static void Main(string[] args)
         {
